@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @Utecha
 - 👀 I’m interested in Politics, Programming, Gaming, 2A
-- 🌱 I’m currently learning Python, C/C++, GDScript, C#, and Rust.
+- 🌱 I’m usually programming in C or C3.
 - 💞️ I’m looking to collaborate on something. Maybe. I'm not sure yet!
   
 # 📫 How to reach me
